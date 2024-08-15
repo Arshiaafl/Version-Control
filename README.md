@@ -46,7 +46,7 @@ The project involves training various machine learning models, including Logisti
 
 1. **Prepare the Dataset**: Ensure that the dataset file (`creditcard_2023.csv`) is in the correct directory. You can download it from: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
 
-2. **Train and Log Models**: Run the `version1.py` script to train and log models using `MLflow`. Don't forget to run "mlflow ui" first.
+2. **Train and Log Models**: Run the `version1d.py` script to train and log models using `MLflow`. Don't forget to run "mlflow ui" first.
 
    ```bash
    python version1.py
