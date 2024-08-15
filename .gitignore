@@ -1,0 +1,11 @@
+# MLflow files
+mlruns/
+*.mlmodel
+*.pkl
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
