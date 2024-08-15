@@ -52,7 +52,7 @@ The project involves training various machine learning models, including Logisti
    python version1.py
    ```
 
-3. **Register Models**: Customize and run the `model_registry.py` script to deploy the model.
+3. **Register Models**: Customize and run the `model_registry.py` script to register the model.
 
    ```bash
    python model_registry.py
