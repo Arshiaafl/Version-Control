@@ -49,7 +49,7 @@ The project involves training various machine learning models, including Logisti
 2. **Train and Log Models**: Run the `version1d.py` script to train and log models using `MLflow`. Don't forget to run "mlflow ui" first.
 
    ```bash
-   python version1.py
+   python version1d.py
    ```
 
 3. **Register Models**: Customize and run the `model_registry.py` script to register the model.
@@ -61,7 +61,7 @@ The project involves training various machine learning models, including Logisti
 4. **Evaluate Models**: Use the `test.py` script to evaluate model performance.
 
    ```bash
-   python evaluate_model.py
+   python test.py
    ```
 
 ### .gitignore
